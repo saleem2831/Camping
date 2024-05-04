@@ -1709,7 +1709,7 @@ div#mCSB_1_container{
   height: 20px;
 }
 
-/* .banner-section .owl-theme .owl-nav .owl-prev:before{
+.banner-section .owl-theme .owl-nav .owl-prev:before{
   position: absolute;
   content: '';
   background-image: url(../images/icons/arrow-prev.png);
@@ -1771,7 +1771,7 @@ div#mCSB_1_container{
 
 .banner-section .owl-theme .owl-nav .owl-next:hover:after{
 
-} */
+}
 
 .banner-section .owl-theme .owl-nav button span{
   display: none;
